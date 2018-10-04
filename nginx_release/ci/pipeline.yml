@@ -4,6 +4,7 @@ jobs:
   - get: source-code
     params:
       depth: 1
+    trigger: true
   - config:
       image_resource:
         source:
