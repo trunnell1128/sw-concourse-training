@@ -12,4 +12,4 @@ jobs:
       run:
         path: echo
         args:
-          - "Eventually I will upload a bosh release"
+          - "Eventually I will rule the world!"
